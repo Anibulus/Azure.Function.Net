@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SampleAzureFunction.Net": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7140",
+      "launchBrowser": false
+    }
+  }
+}
