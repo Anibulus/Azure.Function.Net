@@ -4,11 +4,7 @@
     <AzureFunctionsVersion>v4</AzureFunctionsVersion>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.Azure.Functions.Worker" Version="1.23.0" />
-    <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Http" Version="3.1.0" />
-    <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Http.AspNetCore" Version="1.2.1" />
-    <PackageReference Include="Microsoft.Azure.Functions.Worker.Extensions.Timer" Version="4.3.1" />
-    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.4.1" />
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.4.0" />
   </ItemGroup>
   <ItemGroup>
     <None Update="host.json">
